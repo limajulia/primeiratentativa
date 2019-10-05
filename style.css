@@ -1,0 +1,44 @@
+body{
+	background-color: #dfcdc3 !important;
+	}
+
+#banner{
+	background-color: #5f6769;
+	border: 2px rgb(28,28,28) dashed;
+	border-radius: 40%;
+	width: 80px
+	color: rgb(28,28,28);
+	text-align: center;
+}
+
+h1{
+	margin-block-start: 0.67em;
+    margin-block-end: 0.00em;
+}
+
+h2{
+	color: rgb(28,28,28);
+	margin-block-start: 0em;
+	margin-inline-start: 40px;
+}
+
+.fotos{
+	border: 1px transparent solid;
+	border-radius: 50%;
+	height: 300px;
+	width: 300px
+}
+
+.presenters{
+	text-align: center;
+	background-color: #719192;
+}
+
+#footer{
+	background-color: #5f6769;
+}
+
+
+li{
+	text-align: center;
+}
